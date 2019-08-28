@@ -4,4 +4,4 @@ title: "Practice Repo"
 
 A place for all of my github practice files.
 
-* [First RMarkdown](https://pommevilla.github.io/practice/first_rmarkdown.html)
+* [First RMarkdown](https://pommevilla.github.io/lanying_practice/practice.html)
